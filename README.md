@@ -1,4 +1,4 @@
-# Automatic Attendance System using face recognition and detection.
+# Automatic Attendance System Using Face Recognition And Face Detection.
 
 A python GUI integrated attendance system using face recognition to take attendance.
 
