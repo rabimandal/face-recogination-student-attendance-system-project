@@ -1,7 +1,14 @@
-# face-recogination-student-attendance-system-project
+# Automatic Attendance System using face recognition and detection.
 
-This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
+A python GUI integrated attendance system using face recognition to take attendance.
 
-Technology used : -openCV (Opensource Computer Vision) -Python -tkinter GUI interface
+In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
 
-Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera.
+TECHNOLOGY USED:
+
+tkinter for whole GUI
+OpenCV for taking images (cv2.face.LBPHFaceRecognizer_create())
+Haar Cascade-Classifiers for face recognition
+LBPH Library for Face Detection
+MySQL for database (backend)
+CSV, Numpy, Pandas, datetime etc. for other purposes.
